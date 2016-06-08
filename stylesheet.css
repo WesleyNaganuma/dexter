@@ -1,0 +1,97 @@
+  body {
+  font-family: monaco, monospace;
+  background-size: cover;
+}
+h1, h2 {
+  display: inline-block;
+  background: #fff;
+}
+h1 {
+  font-size: 30px
+}
+h2 {
+  font-size: 20px;
+}
+span {
+  background: #fd0;
+}
+
+.menu {
+  text-align: center;
+  margin-top:5px;
+  float:left;
+  Background-color:#4682B4;
+  width:50%;
+  height:50px;
+  /*border-radius: 5px;*/
+  }
+
+.logo {
+  margin-top:5px;
+  text-align: center;
+  float:left;
+  Background-color:#4682B4;
+  width:50%;
+  height:px;
+  /*border-radius: 5px;*/
+}
+#teste{
+  
+  width: 30px;
+  height: auto;
+  margin-top:10px;
+  margin-bottom:10px;    
+  }
+  
+.header{
+  width: 100%;
+  height: 16%;
+  //background:blue;
+  }
+  
+#menubox{
+      height: 47px;
+      /*border: 2px dashed;*/
+      
+    }
+#menubox ul{
+  list-style:none;
+  /*border: 1px dashed red;*/
+  margin-top:2px;
+  margin-bottom:2px;
+  margin-left:0px;
+  margin-right:0px;
+  height:42px;
+  }
+  
+#menubox ul li{
+  display: inline-block;  
+  list-style:none;
+  border: 3px solid #B0C4DE;
+  border-radius: 6px;
+  background-color: #4682B4;
+  margin-top: 10px;
+  }
+
+#menubox ul li a{
+  margin:2px;
+  text-decoration:none;
+  color:black;
+}
+  
+#menubox ul li:hover{
+    background:#708090;
+  }
+.menulateral{
+  float:left;
+  width:20%;
+  height:100%;
+  //background:#4682B4;
+  background-image: -moz-linear-gradient(left, #20B2AA, #8FBC8F 0%);
+background-image: -webkit-gradient(linear, left top, right top, color-stop(0.00, #20B2AA), color-stop(0.780, #8FBC8F));
+  border-radius: 3px;
+}
+#corpo {
+  
+  }
+  
